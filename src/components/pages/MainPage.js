@@ -4,6 +4,7 @@ import Home from "./HomePage";
 import Signup from "./Signup";
 import Example from './Example'
 const Main = () => {
+  
   return (
     <Switch>
       <Route exact path="/" component={Home}></Route>

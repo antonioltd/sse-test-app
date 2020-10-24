@@ -7,7 +7,7 @@ export const WorldAnimation = () => {
   return (
     <Icon
       //onClick={() => (window.location = "/home")}
-      onClick={() => history.push("/home")}
+      onClick={() => history.push("/sse-test-app/home")}
       color="teal"
       loading
       size="big"

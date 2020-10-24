@@ -57,7 +57,7 @@ const Home = () => {
                 size="big"
                 color="teal"
                 title="Register to learn cypress."
-                onClick={() => history.push("/signup")}
+                onClick={() => history.push("/sse-test-app/signup")}
               />
             </Grid.Column>
           </Grid>

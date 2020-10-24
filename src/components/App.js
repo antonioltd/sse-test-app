@@ -43,12 +43,14 @@ function App() {
   });
 
   return (
-    
-    <div className="App">
-      <h1>SSE Practice Application</h1>
-      <Input change={thoughtChangedHandler} />
-      <p style={{ color: "red" }}>{val.thought}</p>
-      {dataValues}
+    // <div className="App">
+    //   <h1>SSE Practice Application</h1>
+    //   <Input change={thoughtChangedHandler} />
+    //   <p style={{ color: "red" }}>{val.thought}</p>
+    //   {dataValues}
+    // </div>
+    <div>
+      <Main />
     </div>
   );
 }

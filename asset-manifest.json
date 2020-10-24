@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/sse-test-app/static/css/main.5f361e03.chunk.css",
+    "main.js": "/sse-test-app/static/js/main.f6f01c0e.chunk.js",
+    "main.js.map": "/sse-test-app/static/js/main.f6f01c0e.chunk.js.map",
+    "runtime-main.js": "/sse-test-app/static/js/runtime-main.2a8eb7cb.js",
+    "runtime-main.js.map": "/sse-test-app/static/js/runtime-main.2a8eb7cb.js.map",
+    "static/css/2.730ce821.chunk.css": "/sse-test-app/static/css/2.730ce821.chunk.css",
+    "static/js/2.0633f330.chunk.js": "/sse-test-app/static/js/2.0633f330.chunk.js",
+    "static/js/2.0633f330.chunk.js.map": "/sse-test-app/static/js/2.0633f330.chunk.js.map",
+    "index.html": "/sse-test-app/index.html",
+    "precache-manifest.53ab5ad0efb56adf79a7a234b00f27a4.js": "/sse-test-app/precache-manifest.53ab5ad0efb56adf79a7a234b00f27a4.js",
+    "service-worker.js": "/sse-test-app/service-worker.js",
+    "static/css/2.730ce821.chunk.css.map": "/sse-test-app/static/css/2.730ce821.chunk.css.map",
+    "static/css/main.5f361e03.chunk.css.map": "/sse-test-app/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.0633f330.chunk.js.LICENSE.txt": "/sse-test-app/static/js/2.0633f330.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/sse-test-app/static/media/outline-icons.ef60a4f6.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2a8eb7cb.js",
+    "static/css/2.730ce821.chunk.css",
+    "static/js/2.0633f330.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.f6f01c0e.chunk.js"
+  ]
+}

@@ -6,9 +6,9 @@ const Main = () => {
   
   return (
     <Switch>
-      <Route exact path="/" component={Home}></Route>
-      <Route exact path="/home" component={Home}></Route>
-      <Route exact path="/signup" component={Signup}></Route>
+      <Route exact path="/sse-test-app/" component={Home}></Route>
+      <Route exact path="/sse-test-app/home" component={Home}></Route>
+      <Route exact path="/sse-test-app/signup" component={Signup}></Route>
     </Switch>
   );
 };

@@ -5,7 +5,6 @@ import {
   Checkbox,
   Segment,
   Container,
-  Icon,
   Header,
 } from "semantic-ui-react";
 import { WorldAnimation } from "../common/Common";
@@ -14,8 +13,12 @@ const Signup = () => {
   return (
     <Container textAlign="center" style={{ width: "50%" }}>
       <WorldAnimation />
-      <Header style={{ margin: "0" }} as="h2">Create a New Account</Header>
-      <p>Already have one? <a href="http://localhost:3000/home">Sign in here</a></p>
+      <Header style={{ margin: "0" }} as="h2">
+        Create a New Account
+      </Header>
+      <p>
+        Already have one? <a href="http://localhost:3000/home">Sign in here</a>
+      </p>
       <Segment>
         <Form>
           <Form.Field>
@@ -37,7 +40,9 @@ const Signup = () => {
           <Form.Field>
             <Checkbox label="I agree to the Terms and Conditions" />
           </Form.Field>
-          <Button color="teal" type="submit">Submit</Button>
+          <Button color="teal" type="submit">
+            Submit
+          </Button>
         </Form>
       </Segment>
     </Container>

@@ -6,8 +6,6 @@ import {
   Form,
   Grid,
   Header,
-  Icon,
-  Input,
   Segment,
 } from "semantic-ui-react";
 import { useHistory } from "react-router-dom";

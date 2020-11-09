@@ -1,11 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b0431b58-3cbd-44d7-97a6-453e6fbf89f5" name="Default Changelist" comment="" />
+    <list default="true" id="b0431b58-3cbd-44d7-97a6-453e6fbf89f5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/components/pages/MainPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/pages/MainPage.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -16,6 +21,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1j0wx746aOqPslwi1p1MjDvRGbN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -24,6 +30,7 @@
   <component name="PropertiesComponent">
     <property name="Rider.SolutionExplorerActivator" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TWShift.3" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="jsx.switch.disabled" value="true" />
     <property name="nodejs_package_manager_path" value="yarn" />
@@ -59,13 +66,14 @@
       <option name="presentableId" value="Default" />
       <updated>1602954560761</updated>
       <workItem from="1602954564929" duration="1036000" />
+      <workItem from="1604091384069" duration="58000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="WindowStateProjectService">
     <state x="233" y="0" key="#Inspection_severity" timestamp="1603052322498">

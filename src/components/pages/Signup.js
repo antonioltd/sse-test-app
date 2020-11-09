@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "react-router-dom";
 import {
   Form,
   Button,
@@ -17,7 +18,7 @@ const Signup = () => {
         Create a New Account
       </Header>
       <p>
-        Already have one? <a href="http://localhost:3000/home">Sign in here</a>
+        Already have one? <Link to="/sse-test-app/home">Sign in here</Link>
       </p>
       <Segment>
         <Form>

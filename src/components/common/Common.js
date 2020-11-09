@@ -6,8 +6,8 @@ export const WorldAnimation = () => {
   const history = useHistory();
   return (
     <Icon
-      //onClick={() => (window.location = "/home")}
       onClick={() => history.push("/sse-test-app/home")}
+      title="Back to home page."
       color="teal"
       loading
       size="big"
